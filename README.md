@@ -1,5 +1,5 @@
 # Task Hijacking POC
-This is a sample project which will help to exploit and create a POC for Task Hijacking Attack. This repository already have configured to exploit Task Hijacking vulnerability on BugBazaar application. Feel free to use this repo to create poc for your project.
+This is a sample project which will help to exploit and create a POC for Task Hijacking Attack. This repository already have configured to exploit Task Hijacking vulnerability on [BugBazaar](https://github.com/payatu/BugBazaar)  application. Feel free to use this repo to create poc for your project.
 
 ### Steps to exploit Task Hijacking
 1. Open Target application and make sure it is running properly. 
