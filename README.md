@@ -7,7 +7,7 @@ This is a sample project which will help to exploit and create a POC for Task Hi
 3. Now create a new project in Android Studio or use this project.
 4. In MainActivity.java, put following code:
 ```
-	public class MainActivity extends AppCompatActivity {
+    public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
